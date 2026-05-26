@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart EBOCR截图</string>
+    <string name="accessibility_description">Smart EBOCR自动截图服务，用于自动遍历网上国网App的电量明细页面并截图保存</string>
+    <string name="capture_notification_channel">截图服务</string>
+    <string name="capture_notification_title">Smart EBOCR截图服务运行中</string>
+    <string name="capture_notification_text">点击悬浮按钮截取当前屏幕</string>
+    <string name="auto_capture_notification_text">正在自动截取电量明细…</string>
+</resources>

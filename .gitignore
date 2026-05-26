@@ -1,0 +1,49 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Database & Data
+data/*.db
+data/uploads/
+
+# Logs
+backend/logs/
+*.log
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/test-results/
+
+# AI Toolchain
+.claude/
+.playwright-mcp/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Uploads (keep docs images)
+*.jpg
+*.png
+*.jpeg
+!docs/**/*.jpg
+!docs/**/*.png
+
+# Pytest
+.pytest_cache/

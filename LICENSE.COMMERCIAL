@@ -1,0 +1,42 @@
+smart-ebocr Commercial License
+=======================
+
+Copyright 2024-2026 smart-ebocr Contributors
+
+This license applies to the premium features of smart-ebocr (Smart Electricity Bill Analysis Tool),
+including but not limited to:
+
+  - Multi-meter management
+  - Advanced charts (year-over-year, month-over-month, forecasting)
+  - Advanced pricing policy (multi-region, custom tiered rates)
+  - PDF annual report export
+  - Feature voting rights
+  - Priority issue response
+
+GRANT OF LICENSE
+
+Upon successful sponsorship through Afdian (https://ifdian.net), you are granted a
+non-exclusive, non-transferable license to use the premium features for the duration
+of your active sponsorship.
+
+RESTRICTIONS
+
+1. You may NOT distribute, sublicense, or make available the premium feature source
+   code to any third party.
+2. You may NOT reverse-engineer, decompile, or disassemble the premium features.
+3. The license is valid only during the active sponsorship period.
+4. Upon sponsorship expiration, premium features will be deactivated. Your data will
+   be preserved but access to premium functionality will be revoked.
+
+TERMINATION
+
+The license automatically terminates when the sponsorship expires or is cancelled.
+Upon termination, you must cease using the premium features.
+
+DISCLAIMER
+
+THE PREMIUM FEATURES ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY ARISING FROM THE USE OF THE PREMIUM FEATURES.
+
+For sponsorship details, visit: https://ifdian.net/a/smart-ebocr

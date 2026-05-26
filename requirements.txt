@@ -1,0 +1,13 @@
+# Core dependencies
+flask>=3.1,<4.0
+flask-cors>=6.0,<7.0
+flask-sqlalchemy>=3.1,<4.0
+sqlalchemy>=2.0,<3.0
+requests>=2.31,<3.0
+
+# OCR engines (at least one required; rapidocr recommended)
+rapidocr-onnxruntime>=1.4,<2.0
+pytesseract>=0.3,<1.0
+
+# PDF export (premium feature)
+reportlab>=4.0,<5.0
