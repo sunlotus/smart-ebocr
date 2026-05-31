@@ -118,12 +118,6 @@ npm run dev
 
 [![爱发电](https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-%E8%B5%9E%E5%8A%A9%E6%94%AF%E6%8C%81-orange)](https://ifdian.net/a/smart-ebocr)
 
-| 档位 | 价格 | 权益 |
-|------|------|------|
-| 支持者 | ¥9/月 | 多电表管理 + 感谢名单展示 |
-| 高级用户 | ¥30/月 | 高级图表 + 高级电价 + PDF 导出 |
-| 超级用户 | ¥99/月 | 全部功能 + 功能投票 + 优先支持 |
-
 ## License
 
 本项目采用 Open Core 双协议模式：
