@@ -120,10 +120,7 @@ npm run dev
 
 ## License
 
-本项目采用 Open Core 双协议模式：
-
-- **核心功能**：[Apache 2.0](LICENSE) — 可自由使用、修改、分发
-- **高级功能**：[商业授权](LICENSE.COMMERCIAL) — 通过爱发电赞助获取使用许可
+[Apache License 2.0](LICENSE)
 
 ## 免责声明
 
